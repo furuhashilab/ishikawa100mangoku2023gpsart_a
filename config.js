@@ -1,4 +1,4 @@
-var config = {
+　var config = {
     style: 'mapbox://styles/mapbox/streets-v11',
     accessToken: 'pk.eyJ1IjoibmFveWFhIiwiYSI6ImNsMXFqeml0ejE1bWQzam10b2RoZHFrNjcifQ.shfDTmh_FOVM-vFy_y7l0Q',
     showMarkers: true,
