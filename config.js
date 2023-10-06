@@ -11,8 +11,8 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'いしかわ100万石　~19市町で描くGPSアート~',
-    subtitle: 'GPSアートを見ながら石川県内を巡っていきいましょう！',
-    byline: 'By Wataru Yoshida, Minaho Ishii',
+    subtitle: '',
+    byline: 'By Naoya uematsu, Tomoki fukamizu',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',    
 	chapters: [
         {
@@ -50,9 +50,9 @@ var config = {
             id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: '朝顔　白山市',
-            image: 'https://user-images.githubusercontent.com/93134160/269891930-33231cd2-6e94-4e50-b5ac-3f3494f2b416.jpg',
-            description: '江戸時代の俳人・千代女は白山市出身。千代女は朝顔の句を多く詠んでいることから、朝顔は白山市の花になっています。若宮八幡宮・明達寺・千代女の里俳句館・本誓寺・聖興寺など白山市の観光スポットを巡ります。',
+            title: '松尾　芭蕉',
+            image: '',
+            description: '開湯1300年の歴史を持つ山中温泉は、芭蕉が称賛した日本三大名湯の1つ。1689年夏、奥の細道の道中、松尾芭蕉は山中温泉に長期にわたって滞在しました。山中温泉の数々の名所旧跡には芭蕉の句が残されています。',
 	　　mapStyle: 'mapbox://styles/wataruyoshida/cln9x7i24009001puepzsflgr',
             location: {
                 center: [136.57608, 36.52642],
